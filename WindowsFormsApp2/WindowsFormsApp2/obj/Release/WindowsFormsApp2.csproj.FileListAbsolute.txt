@@ -1,0 +1,9 @@
+C:\Users\reyes\Documents\visualprojects\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe.config
+C:\Users\reyes\Documents\visualprojects\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.exe
+C:\Users\reyes\Documents\visualprojects\WindowsFormsApp2\WindowsFormsApp2\bin\Release\WindowsFormsApp2.pdb
+C:\Users\reyes\Documents\visualprojects\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Form1.resources
+C:\Users\reyes\Documents\visualprojects\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\reyes\Documents\visualprojects\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\reyes\Documents\visualprojects\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\reyes\Documents\visualprojects\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.exe
+C:\Users\reyes\Documents\visualprojects\WindowsFormsApp2\WindowsFormsApp2\obj\Release\WindowsFormsApp2.pdb
